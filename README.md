@@ -8,3 +8,5 @@ Hallo! Ich bin Pia, 24 Jahre alt und gerade dabei, in die spannende Welt der IT 
 
 - Hier gehts zu meiner eigenen [🎨Portfolio Website](https://portfolio-piah.netlify.app/)
 - Kontaktiere mich doch auf [💼LinkedIn](www.linkedin.com/in/pia-heiss)
+
+<img src="./Kenntnisse.png" style = "width:800px">
