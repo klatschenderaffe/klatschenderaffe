@@ -15,5 +15,5 @@ Leidenschaft für Webdesign mit anderen zu teilen.
 
 ## Schau dir noch mehr von mir an
 
-- Hier gehts zu meiner [🎨Portfolio Website](https://portfolio-piah.netlify.app/)
+
 - oder kontaktiere mich doch auf [💼LinkedIn](www.linkedin.com/in/pia-heiss)
