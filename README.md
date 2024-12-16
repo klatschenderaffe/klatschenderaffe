@@ -10,7 +10,6 @@ wird jeder Tag aufregender und ich genieße den Prozess des ständigen Lernens u
 neuer Möglichkeiten. Ich freue mich darauf, meine Fähigkeiten weiterzuentwickeln und meine
 Leidenschaft für Webdesign mit anderen zu teilen.
 
-<img src="./Kenntnisse.png" style = "width:800px">
 
 ---
 
