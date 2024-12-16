@@ -16,4 +16,4 @@ Leidenschaft für Webdesign mit anderen zu teilen.
 ## Schau dir noch mehr von mir an
 
 
-- oder kontaktiere mich doch auf [💼LinkedIn](www.linkedin.com/in/pia-heiss)
+- [💼LinkedIn](www.linkedin.com/in/pia-heiss)
