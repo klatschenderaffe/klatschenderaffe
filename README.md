@@ -13,7 +13,7 @@ Leidenschaft für Webdesign mit anderen zu teilen.
 
 ---
 
-## Schau dir noch mehr von mir an
+## Profile
 
 
 - [💼LinkedIn](https://www.linkedin.com/in/pia-heiss/)
