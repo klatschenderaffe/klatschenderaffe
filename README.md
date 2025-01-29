@@ -1,6 +1,6 @@
 # Hi, ich bin Pia 👋🏻 👩🏻‍💻
 
-<img src="./Banner-full-stack.png" style = "width:800px">
+<img src="./Banner.png" style = "width:800px">
 
 Hallo!
 Ich bin Pia, 25 Jahre alt und gerade dabei, in die spannende Welt der
